@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cliente SYSTEM "cliente.dtd" >
+<cliente id="idvalue0">
+  <nome>
+    <primeiro>primeiro</primeiro>
+    <ultimo>ultimo</ultimo>
+  </nome>
+  <contato>
+    <endereco tipo="residencial">
+      <rua>rua</rua>
+      <numero>numero</numero>
+      <bairro>bairro</bairro>
+      <cidade>cidade</cidade>
+      <estado>estado</estado>
+      <cep>cep</cep>
+    </endereco>
+    <telefone>
+      <residencial>residencial</residencial>
+    </telefone>
+  </contato>
+</cliente>

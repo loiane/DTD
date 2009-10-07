@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE park [
+	<!ELEMENT nome (primeiro , meio? , ultimo)>
+	<!ELEMENT primeiro (#PCDATA)>
+	<!ELEMENT meio (#PCDATA)>
+	<!ELEMENT ultimo (#PCDATA)>
+]>
+<nome>
+	<primeiro>primeiro</primeiro>
+	<ultimo>ultimo</ultimo>
+</nome>
+
